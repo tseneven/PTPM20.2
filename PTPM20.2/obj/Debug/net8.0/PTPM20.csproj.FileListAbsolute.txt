@@ -1,0 +1,11 @@
+C:\Users\Neven\source\repos\PTPM20.2\bin\Debug\net8.0\PTPM20.deps.json
+C:\Users\Neven\source\repos\PTPM20.2\bin\Debug\net8.0\PTPM20.dll
+C:\Users\Neven\source\repos\PTPM20.2\bin\Debug\net8.0\PTPM20.pdb
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.AssemblyInfoInputs.cache
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.AssemblyInfo.cs
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.csproj.CoreCompileInputs.cache
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.dll
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\refint\PTPM20.dll
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\PTPM20.pdb
+C:\Users\Neven\source\repos\PTPM20.2\obj\Debug\net8.0\ref\PTPM20.dll
